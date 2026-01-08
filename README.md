@@ -5,4 +5,5 @@
 * Scanner class - To take User Input <br>
 * try-catch - handling Exception <br>
 * while loop - program keep running until user exit. <br>
+* If-else - for Conditional <br>
 # Operation like Deposite amount, Withdraw Amount, Check Amount.
