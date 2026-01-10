@@ -1,7 +1,7 @@
 package ATMMachine;
 import java.util.Random;
 public class AtmWork {
-    double balance;
+   private double balance;
     Random random = new Random();
     int otp = random.nextInt(1000, 10000);
    public void otpDisplay () throws Exception {
